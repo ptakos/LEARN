@@ -1,0 +1,88 @@
+Tue Nov 03 17:16:19 2015
+
+
+Moral links:
+
+    Marrying T2 and T6
+    Marrying T4 and T6
+    Marrying T4 and T2
+
+
+Triangulating prime component with 4 members:
+    T6, T2, T4, C1
+This component is a clique of cost 5000
+
+
+Total cost of triangulation for all prime components is 5000
+
+
+Cliques:
+
+Clique 1, 4 members, table size = 5000:
+    T6, T2, T4, C1
+
+Total clique table size: 5000
+
+
+The junction forest:
+
+Creating junction tree with clique 1 as root ...
+
+
+Assignment of potentials to cliques:
+
+    Node T6 assigned to clique 1
+    Node T2 assigned to clique 1
+    Node T4 assigned to clique 1
+    Node C1 assigned to clique 1
+
+
+Checking conditional probability potentials:
+
+    No error found
+
+
+Beliefs for chance nodes:
+
+    T6:
+	state0   0.1
+	state1   0.1
+	state2   0.1
+	state3   0.1
+	state4   0.1
+	state5   0.1
+	state6   0.1
+	state7   0.1
+	state8   0.1
+	state9   0.1
+
+    T2:
+	state0   0.1
+	state1   0.1
+	state2   0.1
+	state3   0.1
+	state4   0.1
+	state5   0.1
+	state6   0.1
+	state7   0.1
+	state8   0.1
+	state9   0.1
+
+    T4:
+	state0   0.2
+	state1   0.2
+	state2   0.2
+	state3   0.2
+	state4   0.2
+
+    C1:
+	state0   0.3
+	state1   0.3
+	state2   0.3
+	state3   0.0031232
+	state4   0.0119366
+	state5   0.0209478
+	state6   0.0276723
+	state7   0.0210582
+	state8   0.0120454
+	state9   0.00321638
